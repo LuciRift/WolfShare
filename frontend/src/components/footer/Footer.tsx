@@ -31,10 +31,10 @@ const Footer = () => {
           Powered by{" "}
           <Anchor
             size="xs"
-            href="https://github.com/aottr/ottrbox"
+            href="https://github.com/LuciRift/WolfShare"
             target="_blank"
           >
-            OttrBox
+            WolfShare
           </Anchor>
         </Text>
         <div>
